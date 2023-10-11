@@ -19,7 +19,9 @@ To get started with the Expense Tracker, follow these steps:
 
 2.  Make sure you have Python installed on your system.
 3.  install the required dependencies. You can do this using pip:
-   '''pip install -r requirements.txt'''
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 1. Run the Expense Tracker application: python expense_tracker.py
