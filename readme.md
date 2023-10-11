@@ -45,4 +45,4 @@ Contributions are welcome! If you'd like to improve the Expense Tracker or add n
 5. Submit a pull request to the main repository.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](license.md).
